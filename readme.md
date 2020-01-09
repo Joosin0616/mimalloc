@@ -53,7 +53,7 @@ The [documentation](https://microsoft.github.io/mimalloc) gives a full overview 
 You can read more on the design of _mimalloc_ in the [technical report](https://www.microsoft.com/en-us/research/publication/mimalloc-free-list-sharding-in-action) which also has detailed benchmark results.   
 
 Enjoy!  
-
+change testing
 ### Releases
 
 * 2019-12-22, `v1.2.2`: stable release 1.2: minor updates.
